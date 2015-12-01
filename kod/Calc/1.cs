@@ -10,6 +10,7 @@
                 return int.MinValue;
             }
 
+
             if (args[0] == "sum")
             {
                 int sum = 0;
